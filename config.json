@@ -1,0 +1,151 @@
+{
+  "server": {
+    "port": 2911
+  },
+  "auth": {
+    "specialDate": "29112025",
+    "dateHint": "Ngày đầu tiên chúng mình chính thức yêu nhau (ddmmyyyy) 💕",
+    "acceptedDates": [
+      "29112025",
+      "29/11/2025",
+      "29-11-2025",
+      "29.11.2025",
+      "2025-11-29"
+    ]
+  },
+  "unlock": {
+    "enabled": true,
+    "hour": 16,
+    "minute": 36,
+    "displayTime": "16:36 (4h36 chiều)",
+    "lockedMessage": "Chưa đến đúng 4h36 nè ebee ơii! Đợi cùng anh đến đúng 16:36 nhaaa 💕"
+  },
+   "lover": {
+    "name": "Bé Yêu",
+    "nickname": "Ebeee êuuuu cụaaa anhhh 💗💗💗",
+    "phone": "",
+    "relationshipStartDate": "2025-11-29",
+    "fakeVoucher": {
+      "brand": "JOLLIBEE VIỆT NAM",
+      "title": "VOUCHER ĐẶC QUYỀN GÀ RÁN GIÒN VUI VẺ",
+      "comboDesc": "Combo Siêu Khủng 11 Miếng Gà Giòn Cay + 05 Mì Ý Sốt Bò Bằm Jollibee + 05 Khoai Tây Lắc + Trọn Bộ Coca Cực Đã",
+      "trollHeadline": "Haha cú lừa thế kỷ! Làm gì có gà rán nào ở đây... 😂🍗👉🎮",
+      "trollMessage": "GÀ RÁN làaa GARENA đó ebee êuuu! Abeee biết em đang thèm sìii kinnn mứiii hơn là ăn gà rán đún hemm? Abeee tặng em dàn thẻ Gè rén này để ebee nẹpp gêmm nhậnnn ưu đãii nhooo"
+    },
+    "loveLetter": {
+      "title": "Gửi Ebeee Yêu Dấu Của Anh 💌",
+      "content": "Gửi công chúa nhỏ của anh!\n\nCảm ơn em vì đã luôn ở bên anh, yêuuu anhh, mang lại cho anh thật nhìuuu nhìuuu niềm hạnh phúc mỗi ngày. Dù đôi lúc abeee cụaa emmm hưii ngố, nmaaa tình yêu anh dành cho em thì lúccc nềuuu cũmm luôn đong đầy và chân thành nhất.\n\nDàn thẻ Gè Rán này là món quà nhỏ anh chuẩn bị riêng cho em béee, chúc yêuuu của anh leo rank thật vui, sắm được những bộ skin xịn sò nhất và luôn luôn tươi cười, hphucc khii bênn anhh nhoooo!\n\nAnh siêuuuuu yêuuuu emmm <33! 💖✨",
+      "sender": "Anh bé của em béee 👑",
+      "date": "Luônnn yêuuu emmmm 💕"
+    }
+  },
+  "garenaCards": [
+    {
+      "id": 1,
+      "title": "Thẻ Garena 20k #1",
+      "denomination": "20.000 VNĐ",
+      "storyNote": "Mở màn bằng thẻ 20k đầu tiên nà! Nạp nhẹ nhận kim cương trước nhooo 💎✨",
+      "cardCode": "8737723857602718",
+      "serial": "881483085",
+      "expiryDate": "17/10/2029"
+    },
+    {
+      "id": 2,
+      "title": "Thẻ Garena 20k #2",
+      "denomination": "20.000 VNĐ",
+      "storyNote": "Thêm một thẻ 20k nữa nèee! Vẫn còn nhiều lắm nhooo 🥰🎮",
+      "cardCode": "8189922075465548",
+      "serial": "881483086",
+      "expiryDate": "17/10/2029"
+    },
+    {
+      "id": 3,
+      "title": "Thẻ Garena 20k #3",
+      "denomination": "20.000 VNĐ",
+      "storyNote": "Thẻ 20k thứ ba nà! Tích lũy mua thẻ vô cực nhaaa 🌟",
+      "cardCode": "8932154196946482",
+      "serial": "881483087",
+      "expiryDate": "17/10/2029"
+    },
+    {
+      "id": 4,
+      "title": "Thẻ Garena 20k #4",
+      "denomination": "20.000 VNĐ",
+      "storyNote": "Tiếp tục thẻ 20k thứ tư nè! Tay mở quà có mỏi chưa công chúa? 💖",
+      "cardCode": "9493373614475416",
+      "serial": "881483088",
+      "expiryDate": "17/10/2029"
+    },
+    {
+      "id": 5,
+      "title": "Thẻ Garena 20k #5",
+      "denomination": "20.000 VNĐ",
+      "storyNote": "Thẻ 20k cuối cùng trong dàn 20k! Chuẩn bị nâng cấp mệnh giá to hơn nhaaa 🔥",
+      "cardCode": "0565611247209589",
+      "serial": "881483089",
+      "expiryDate": "17/10/2029"
+    },
+    {
+      "id": 6,
+      "title": "Thẻ Garena 50k #1",
+      "denomination": "50.000 VNĐ",
+      "storyNote": "Lên nấc thang mới: Thẻ 50k xịn sò đầu tiên xuất hiện! 🎁✨",
+      "cardCode": "5440021531690085",
+      "serial": "881934609",
+      "expiryDate": "19/10/2029"
+    },
+    {
+      "id": 7,
+      "title": "Thẻ Garena 50k #2",
+      "denomination": "50.000 VNĐ",
+      "storyNote": "Thêm thẻ 50k thứ hai nè! Nạp tẹt ga không lo thiếu sò nhooo 🎮💕",
+      "cardCode": "5902229856047434",
+      "serial": "881934610",
+      "expiryDate": "19/10/2029"
+    },
+    {
+      "id": 8,
+      "title": "Thẻ Garena 50k #3",
+      "denomination": "50.000 VNĐ",
+      "storyNote": "Thẻ 50k thứ ba! Sắp đủ sắm trọn set trang phục yêu thích rồi đóoo 👗✨",
+      "cardCode": "5246591093245968",
+      "serial": "881934607",
+      "expiryDate": "19/10/2029"
+    },
+    {
+      "id": 9,
+      "title": "Thẻ Garena 50k #4",
+      "denomination": "50.000 VNĐ",
+      "storyNote": "Thẻ 50k thứ tư nèee! Cày rank cùng anh bất bại luôn nhaaa ⚔️👑",
+      "cardCode": "4697789317728778",
+      "serial": "881934608",
+      "expiryDate": "19/10/2029"
+    },
+    {
+      "id": 10,
+      "title": "Thẻ Garena 50k #5",
+      "denomination": "50.000 VNĐ",
+      "storyNote": "Chốt hạ combo 50k! Tưởng hết rồi đúng hông? Vẫn còn TRÙM CUỐI phía sau! 👀🔥",
+      "cardCode": "5204397079175059",
+      "serial": "881934606",
+      "expiryDate": "19/10/2029"
+    },
+    {
+      "id": 11,
+      "title": "Thẻ Garena VIP 100k (TRÙM CUỐI)",
+      "denomination": "100.000 VNĐ",
+      "storyNote": "👑 TRÙM CUỐI ĐỈNH CHÓP: Thẻ 100k VIP nhất dành riêng cho công chúa cưng của anh! Yêu em nhất trên đời! 💖🎉",
+      "cardCode": "0518779725511015",
+      "serial": "881534708",
+      "expiryDate": "17/10/2029"
+    }
+  ],
+  "vihat": {
+    "apiKey": "",
+    "secretKey": "",
+    "brandname": "SOFTLAB.VN",
+    "baseUrl": "http://api.esms.vn/MainService.svc",
+    "contentTemplate": "(SOFTLAB.VN): Ma xac thuc OTP cua ban tai iam.softlab.vn la {{P}}. Tuyet doi khong chia se ma nay voi bat ky ai.",
+    "simulationMode": false
+  }
+}

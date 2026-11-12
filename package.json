@@ -1,0 +1,16 @@
+{
+  "name": "garena-card-4-my-lover",
+  "version": "1.0.0",
+  "description": "Trang web tặng thẻ Garena cho người yêu với giao diện dễ thương, gửi mã OTP qua eSMS ViHAT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "vihat-sdk": "^1.0.1"
+  }
+}
+

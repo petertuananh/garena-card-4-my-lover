@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  garena-gift:
+    build: .
+    container_name: garena-gift-app
+    restart: unless-stopped
+    ports:
+      - "2911:2911"
+    volumes:
+      - ./config.json:/app/config.json
+      - ./server.js:/app/server.js
+      - ./sendSmsOTP.js:/app/sendSmsOTP.js
+      - ./public:/app/public
+    environment:
+      - NODE_ENV=production
+      - PORT=2911
